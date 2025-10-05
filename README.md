@@ -1,9 +1,12 @@
 Hi, I’m @avhijay
-I’m interested in LEARNING MORE BACKEND AND AI DEVELOPMENT  
-I’m currently learning JAVA , JAVA SCRIPT 
-   I’m looking to collaborate on any kind of projects that i can work on which includes the language - java , java script , HTML.
-   How to reach me parmaravhjay5049@gamil.com
 
+I’m interested in learning more about backend development and AI.  
+I’m currently focusing on Java and Spring Boot to strengthen my backend skills.  
+I’m open to collaborating on projects related to Java, Spring Boot, or anything that helps me learn and grow in backend development.  
+
+I can be reached at: parmaravhjay5049@gmail.com  
+
+I mostly work with backend technologies, but I’m open to exploring JavaScript later if needed.
 
 
 <!---
