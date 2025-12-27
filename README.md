@@ -1,7 +1,5 @@
-Hi, I’m @avhijay
+Backend developer | Java | Spring Boot
 
-I’m interested in learning more about backend development and AI.  
-I’m currently focusing on Java and Spring Boot to strengthen my backend skills.  
 I’m open to collaborating on projects related to Java, Spring Boot, or anything that helps me learn and grow in backend development.  
 
 I can be reached at: parmaravhjay5049@gmail.com  
