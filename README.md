@@ -4,7 +4,7 @@ I’m open to collaborating on projects related to Java, Spring Boot, or anythin
 
 I can be reached at: parmaravhjay5049@gmail.com  
 
-I mostly work with backend technologies, but I’m open to exploring JavaScript later if needed.
+I mostly work with backend technologies, but I’m open to exploring JavaScript  if needed.
 
 
 <!---
