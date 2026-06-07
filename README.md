@@ -2,7 +2,7 @@ Backend developer | Java | Spring Boot
 
 I’m open to collaborating on projects related to Java, Spring Boot, or anything that helps me learn and grow in backend development.  
 
-I can be reached at: parmaravhjay5049@gmail.com  
+I can be reached at: avhijaysinghparmar@gmail.com
 
 I mostly work with backend technologies, but I’m open to exploring JavaScript  if needed.
 
