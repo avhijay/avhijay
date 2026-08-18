@@ -1,4 +1,4 @@
-Backend developer | Java | Spring Boot
+Java Backend Developer | Spring Boot | Microservices | Apache Kafka | OAuth2 
 
 I’m open to collaborating on projects related to Java, Spring Boot, or anything that helps me learn and grow in backend development.  
 Drawn to understanding how backend architectures are designed, where they break, and  how to improve or build them from scratch.
